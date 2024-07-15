@@ -9,3 +9,46 @@
 // [“Russia”, “Denmark”, “Kazan”] → []
 
 
+string[] array = new string[7] { "6832", "hello", "142", ":;", "hi", "world!", "238*" };
+string[] array1 = new string[array.Length];
+
+NewArray(array, array1);
+PrintArray(array1);
+
+
+void NewArray(string[] array, string[] array1)
+{
+    int count = 0;
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i].Length <= 3)
+        {
+            array1[count] = array[i];
+            count++;
+        }
+    }
+}
+
+void PrintArray(string[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i] + " "}");
+    }
+    System.Console.WriteLine();
+}
+
+System.Console.WriteLine("Исходный массив:");
+for (int i = 0; i < array.Length; i++)
+{
+    System.Console.Write($"{array[i]} ");
+}
+System.Console.WriteLine();
+
+
+System.Console.WriteLine("Новый массив:");
+for (int i = 0; i < array.Length; i++)
+{
+    System.Console.Write($"{array1[i]} ");
+}
+System.Console.WriteLine();

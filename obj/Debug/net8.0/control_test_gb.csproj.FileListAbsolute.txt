@@ -1,0 +1,15 @@
+C:\Users\myzni\OneDrive\Рабочий стол\control_test_gb\bin\Debug\net8.0\control_test_gb.exe
+C:\Users\myzni\OneDrive\Рабочий стол\control_test_gb\bin\Debug\net8.0\control_test_gb.deps.json
+C:\Users\myzni\OneDrive\Рабочий стол\control_test_gb\bin\Debug\net8.0\control_test_gb.runtimeconfig.json
+C:\Users\myzni\OneDrive\Рабочий стол\control_test_gb\bin\Debug\net8.0\control_test_gb.dll
+C:\Users\myzni\OneDrive\Рабочий стол\control_test_gb\bin\Debug\net8.0\control_test_gb.pdb
+C:\Users\myzni\OneDrive\Рабочий стол\control_test_gb\obj\Debug\net8.0\control_test_gb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myzni\OneDrive\Рабочий стол\control_test_gb\obj\Debug\net8.0\control_test_gb.AssemblyInfoInputs.cache
+C:\Users\myzni\OneDrive\Рабочий стол\control_test_gb\obj\Debug\net8.0\control_test_gb.AssemblyInfo.cs
+C:\Users\myzni\OneDrive\Рабочий стол\control_test_gb\obj\Debug\net8.0\control_test_gb.csproj.CoreCompileInputs.cache
+C:\Users\myzni\OneDrive\Рабочий стол\control_test_gb\obj\Debug\net8.0\control_test_gb.sourcelink.json
+C:\Users\myzni\OneDrive\Рабочий стол\control_test_gb\obj\Debug\net8.0\control_test_gb.dll
+C:\Users\myzni\OneDrive\Рабочий стол\control_test_gb\obj\Debug\net8.0\refint\control_test_gb.dll
+C:\Users\myzni\OneDrive\Рабочий стол\control_test_gb\obj\Debug\net8.0\control_test_gb.pdb
+C:\Users\myzni\OneDrive\Рабочий стол\control_test_gb\obj\Debug\net8.0\control_test_gb.genruntimeconfig.cache
+C:\Users\myzni\OneDrive\Рабочий стол\control_test_gb\obj\Debug\net8.0\ref\control_test_gb.dll
